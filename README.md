@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shakir
-- 👀 I’m interested in building stuff
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in building cool stuff
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me LinkedIn or Instagram: Shakir Rabbani
+- 📫 You can reach out to me on LinkedIn and Instagram: Shakir Rabbani
 - 😄 Pronouns: Shaakir
 - ⚡ Fun fact: I love food :)
 

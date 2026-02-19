@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi, I am Shakir Rabbani:
+# A Final Year Computer Science Student from Pakistan!
 🔭 I’m currently building my skills in Backend and AI Engineering.<br><br>🌱 I’m currently learning React, Nodejs and Mongodb<br><br>👯 I’m looking to collaborate on Intersting Projects<br><br>🤝 I’m looking for help with React and Vuejs<br><br>👨‍💻 All of my projects are available at https://github.com/shakir549<br><br>💬 Ask me about Backend Development<br><br>📫 How to reach me shakirrabbani3@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/shakirrabbani18<br><br>⚡ Fun fact I like to eat and travel!
 
 

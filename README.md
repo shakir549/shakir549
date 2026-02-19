@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakir
 - 👀 I’m interested in building cool stuff
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning JavaScript, Python, and SQL
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach out to me on LinkedIn and Instagram: Shakir Rabbani
 - 😄 Pronouns: Shaakir

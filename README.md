@@ -49,8 +49,6 @@
 ✔ REST APIs & MongoDB integration  
 ✔ Optimised UI performance  
 
-👉 https://github.com/YOUR_USERNAME/smart-task-manager
-
 ---
 
 ### 🔹 Algorithm Optimization Toolkit (C++)
@@ -58,16 +56,12 @@
 ✔ Complexity benchmarking  
 ✔ Dynamic programming solutions  
 
-👉 https://github.com/YOUR_USERNAME/algorithm-toolkit
-
 ---
 
 ### 🔹 Machine Learning Classification System
 ✔ End-to-end ML pipeline  
 ✔ Model comparison & evaluation  
 ✔ Accuracy visualization  
-
-👉 https://github.com/YOUR_USERNAME/ml-classification-system
 
 ---
 
@@ -85,12 +79,6 @@
 
 ---
 
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
 ## 📫 Connect With Me
 
 📧 shakirrabbani3@gmail.com  
@@ -104,6 +92,3 @@ I enjoy solving algorithmic challenges and turning ideas into real-world applica
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)

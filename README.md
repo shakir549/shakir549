@@ -1,28 +1,109 @@
-# 💫 Hi, I am Shakir Rabbani:
-# A Final Year Computer Science Student from Pakistan!
-🔭 I’m currently building my skills in Backend and AI Engineering.<br><br>🌱 I’m currently learning React, Nodejs and Mongodb<br><br>👯 I’m looking to collaborate on Intersting Projects<br><br>🤝 I’m looking for help with React and Vue.js<br><br>👨‍💻 All of my projects are available at https://github.com/shakir549<br><br>💬 Ask me about Backend Development<br><br>📫 How to reach me shakirrabbani3@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/shakirrabbani18<br><br>⚡ Fun fact I like to eat and travel!
+# 👋 Hi, I'm Shakir Rabbani
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirrabbani18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakirrabbani3@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakir549&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shakir549&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakir549&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shakir549&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shakir549&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 Computer Science Student — Quaid-i-Azam University, Islamabad  
+💻 Full-Stack Developer | AI & Machine Learning Enthusiast  
+🚀 Building scalable apps & intelligent systems  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shakir549&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🔹 Passionate about Full Stack Development & AI  
+🔹 Strong foundation in Data Structures & Algorithms  
+🔹 Interested in Machine Learning & Generative AI  
+🔹 Open to internships, freelance projects & collaboration  
+🔹 Love solving real-world problems through code  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+### 🤖 AI & ML
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 Smart Task Manager (MERN)
+✔ Full-stack task management system  
+✔ REST APIs & MongoDB integration  
+✔ Optimised UI performance  
+
+👉 https://github.com/YOUR_USERNAME/smart-task-manager
+
+---
+
+### 🔹 Algorithm Optimization Toolkit (C++)
+✔ Sorting & graph algorithms  
+✔ Complexity benchmarking  
+✔ Dynamic programming solutions  
+
+👉 https://github.com/YOUR_USERNAME/algorithm-toolkit
+
+---
+
+### 🔹 Machine Learning Classification System
+✔ End-to-end ML pipeline  
+✔ Model comparison & evaluation  
+✔ Accuracy visualization  
+
+👉 https://github.com/YOUR_USERNAME/ml-classification-system
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+## 📫 Connect With Me
+
+📧 shakirrabbani3@gmail.com  
+💼 https://linkedin.com/in/shakirrabbani18  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving algorithmic challenges and turning ideas into real-world applications 🚀
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)

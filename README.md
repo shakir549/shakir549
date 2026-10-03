@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakir Rabbani
 
-🎓 Computer Science Student — Quaid-i-Azam University, Islamabad  
+🎓 Computer Science Student at Quaid-i-Azam University, Islamabad  
 💻 Full-Stack Developer | AI & Machine Learning Enthusiast  
 🚀 Building scalable apps & intelligent systems  
 
